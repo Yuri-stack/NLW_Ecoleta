@@ -21,6 +21,7 @@
     "expo-location": "~8.1.0",
     "expo-mail-composer": "~8.1.0",
     "install": "^0.13.0",
+    "lodash": "^4.17.19",
     "logkitty": "^0.7.1",
     "mem": "^6.1.0",
     "react": "~16.9.0",
